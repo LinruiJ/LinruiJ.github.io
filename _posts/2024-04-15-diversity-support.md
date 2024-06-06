@@ -6,8 +6,8 @@ date: 2024-04-15
 #   - 
 ---
 
-In the 24 Fall, they reveived admissions from the following institutions:
-- PhD @ UCSD  ECE x1
+In the 24 Fall, there were 8 people I assisted and they reveived admissions from the following institutions:
+- PhD @ UCSD &nbsp;ECE x1
 - PhD @ HKUST ECE x1 (Women in STEM)
 - PhD @ KAUST ECE x1 (First-Generation College Students)
 - PhD @ UVa   ECE x1 (First-Generation College Students)

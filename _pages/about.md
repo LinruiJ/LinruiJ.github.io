@@ -20,4 +20,4 @@ Before coming to UT, Linrui earned his B.Eng. with Merit degree from [UESTC](htt
 For more news, please check the [NEWS](/news_project) section.
 
 ## Project
-**Diversity Support Event:** Linrui is consistently dedicated to assisting those in need. In 24 Fall, he helped 6 people who are Women in STEM / First-Generation College Students. You can see the detail in [PROJECT](/project) section. He is also writing an [informal essay](https://docs.google.com/document/d/1XXsCO7LnadLOLIzZ5qfGPFeeOjK2m0QJN1Ybp2HRZb4/edit?usp=sharing), sharing his insights and understanding of the application process for graduate-level programs.
+**Diversity Support Event:** Linrui is consistently dedicated to assisting those in need. In 24 Fall, he helped 6 people who are Women in STEM / First-Generation College Students. You can see the detail in [PROJECT](/news_project) section. He is also writing an [informal essay](https://docs.google.com/document/d/1XXsCO7LnadLOLIzZ5qfGPFeeOjK2m0QJN1Ybp2HRZb4/edit?usp=sharing), sharing his insights and understanding of the application process for graduate-level programs.
