@@ -12,8 +12,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Internship"
+    url: /internship/
         
   - title: "News & Project"
     url: /news_project/

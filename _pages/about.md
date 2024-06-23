@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Linrui is currently an M.S. student in [Electrical and Computer Engineering](https://www.ece.utexas.edu/) at [Austin](https://www.utexas.edu/). His research interests lie in the field of hardware-software co-deisgned.
+Linrui is currently an M.S. student in [Electrical and Computer Engineering](https://www.ece.utexas.edu/) at [UT Austin](https://www.utexas.edu/). Before coming to UT, Linrui earned his B.Eng. with Merit degree from [UESTC](https://en.uestc.edu.cn/). During his time there, he had the privilege of being mentored by [Prof. Jun Zhou](https://scholar.google.com.sg/citations?user=kWeqfrMAAAAJ&hl=en).
 
-Before coming to UT, Linrui earned his B.Eng. with Merit degree from [UESTC](https://en.uestc.edu.cn/). During his time there, he had the privilege of being mentored by [Prof. Jun Zhou](https://scholar.google.com.sg/citations?user=kWeqfrMAAAAJ&hl=en).
+His research interests lie in the *Hardware-Software Co-Deisgned*, which aims to build efficient and adaptive co-designed frameworks, including the optimization of algorithms in computer architecture, the development of accelerators in integrated circuits, and the synergy of algorithms and accelerators.
 
-## Research Interests
-**Hardware-Software Co-design:** speaker recognision, algorithms accelerator
+## Internship
+[Oct. 2023 - Present] AIoT Smart ICs & Systems Lab @ UESTC, [detail](/internship)
+
 
 ## News
 **[Weekly Commitment]** Linrui dedicates 1~2 hours to provide guidance, suggestions, and/or mentorships to students from underrepresented groups or anyone in need. If you are interested, please feel free to select a time [here](https://calendly.com/larry-jiang/workshop) that suits both of you two.
