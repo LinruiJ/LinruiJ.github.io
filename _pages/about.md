@@ -12,7 +12,8 @@ Linrui is currently an M.S. student in [Electrical and Computer Engineering](htt
 His research interests lie in the *Hardware-Software Co-Deisgned*, which aims to build efficient and adaptive co-designed frameworks, including the optimization of algorithms in computer architecture, the development of accelerators in integrated circuits, and the synergy of algorithms and accelerators.
 
 ## Internship
-[Oct. 2023 - Present] AIoT Smart ICs & Systems Lab @ UESTC, <small>[detail](/internship)</small>
+[Aug. 2024 - Present] Performance and Architecture Group @ Austin<br/>
+[Oct. 2023 - June 2024] AIoT Smart ICs & Systems Lab @ UESTC, <small>[detail](/internship)</small>
 
 
 ## News
