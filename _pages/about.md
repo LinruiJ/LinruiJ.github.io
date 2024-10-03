@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Linrui is currently an M.S. student in [Electrical and Computer Engineering](https://www.ece.utexas.edu/) at [UT Austin](https://www.utexas.edu/). Before coming to UT, Linrui earned his B.Eng. with Merit degree from [UESTC](https://en.uestc.edu.cn/). During his time there, he had the privilege of being mentored by [Prof. Jun Zhou](https://scholar.google.com.sg/citations?user=kWeqfrMAAAAJ&hl=en).
+Linrui is currently an MSE student in [Electrical and Computer Engineering](https://www.ece.utexas.edu/) at [UT Austin](https://www.utexas.edu/). Before coming to UT, Linrui earned his BEng with Merit degree from [UESTC](https://en.uestc.edu.cn/). During his time there, he had the privilege of being mentored by [Prof. Jun Zhou](https://scholar.google.com.sg/citations?user=kWeqfrMAAAAJ&hl=en).
 
 His research interests lie in the *Hardware-Software Co-Deisgned*, which aims to build efficient and adaptive co-designed frameworks, including the optimization of algorithms in computer architecture, the development of accelerators in integrated circuits, and the synergy of algorithms and accelerators.
 
